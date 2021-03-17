@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الترجمة</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="signB">الدخول</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="forgot">نسيت كلمة المرور؟</string>
+    <string name="label">_________مستخدم جديد_________</string>
+    <string name="newAcc">انشاء حساب</string>
+</resources>

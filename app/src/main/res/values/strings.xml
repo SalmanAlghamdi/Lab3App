@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="email">Email Address</string>
+    <string name="sign_in">Sign In</string>
+    <string name="signB">Sign In</string>
+    <string name="pass">Password</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="label">_________New User_________</string>
+    <string name="newAcc">Create Account</string>
+
+</resources>
